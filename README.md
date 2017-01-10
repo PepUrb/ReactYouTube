@@ -2,7 +2,7 @@
 # ReactYouTube
 
 ```
-	> git clone git@github.com:PepUrb/ReactYouTube.git
+	> git clone https://github.com/PepUrb/ReactYouTube.git
 	> cd ReactYouTube
 	> npm install
 	> npm start
